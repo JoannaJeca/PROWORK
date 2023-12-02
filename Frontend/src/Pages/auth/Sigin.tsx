@@ -1,6 +1,6 @@
 import img from "../../assets/WhatsApp Image 2023-11-15 at 10.25.57_45d28857.jpg"
 import { FcGoogle } from "react-icons/fc";
-import {yupResolver} from "@hookform/resolvers/yup"
+import {yupResolver} from "@hookform/resolvers/yup";
 import { useForm } from "react-hook-form";
 import * as yup from "yup"
 
